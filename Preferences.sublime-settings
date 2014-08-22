@@ -32,7 +32,7 @@
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"spell_check": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
